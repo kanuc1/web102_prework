@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/MZM2JXT" data-context="false" ><a href="//imgur.com/a/MZM2JXT"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+https://imgur.com/a/MZM2JXT
 
 GIF created with LiceCap
 
